@@ -46,7 +46,7 @@ export default function ContactoPage() {
                 <p className="text-muted-foreground mb-2">Responderemos en 24-48 horas</p>
                 <p className="font-medium">
                   <a href="mailto:info@generadordelettering.com" className="hover:text-primary">
-                    info@generadordelettering.com
+                    info@generadordelettering.org
                   </a>
                 </p>
               </CardContent>
