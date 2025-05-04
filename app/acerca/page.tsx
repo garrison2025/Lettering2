@@ -173,7 +173,7 @@ export default function AcercaPage() {
                 quieres colaborar con nosotros, ¡nos encantaría saber de ti!
               </p>
               <p className="mb-6">
-                <a href="mailto:info@generadordelettering.com" className="text-primary hover:underline">
+                <a href="mailto:info@generadordelettering.org" className="text-primary hover:underline">
                   info@generadordelettering.com
                 </a>
               </p>
