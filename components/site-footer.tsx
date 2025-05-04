@@ -61,8 +61,8 @@ export function SiteFooter() {
               ¿Tienes alguna pregunta o sugerencia sobre nuestro generador de lettering?
             </p>
             <p className="text-white/90">
-              <a href="mailto:info@generadordelettering.com" className="hover:text-white transition-colors">
-                info@generadordelettering.com
+              <a href="mailto:info@generadordelettering.org" className="hover:text-white transition-colors">
+                info@generadordelettering.org
               </a>
             </p>
           </div>
