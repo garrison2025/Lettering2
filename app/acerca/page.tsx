@@ -174,7 +174,7 @@ export default function AcercaPage() {
               </p>
               <p className="mb-6">
                 <a href="mailto:info@generadordelettering.org" className="text-primary hover:underline">
-                  info@generadordelettering.com
+                  info@generadordelettering.org
                 </a>
               </p>
               <Button asChild>
