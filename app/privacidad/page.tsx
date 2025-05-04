@@ -195,7 +195,7 @@ export default function PrivacidadPage() {
                 <ul className="list-disc pl-6 space-y-2">
                   <li>
                     Por correo electrónico:{" "}
-                    <a href="mailto:info@generadordelettering.com" className="text-primary hover:underline">
+                    <a href="mailto:info@generadordelettering.org" className="text-primary hover:underline">
                       info@generadordelettering.com
                     </a>
                   </li>
