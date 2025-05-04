@@ -196,7 +196,7 @@ export default function PrivacidadPage() {
                   <li>
                     Por correo electrónico:{" "}
                     <a href="mailto:info@generadordelettering.org" className="text-primary hover:underline">
-                      info@generadordelettering.com
+                      info@generadordelettering.org
                     </a>
                   </li>
                   <li>A través de nuestro formulario de contacto en la página de contacto</li>
